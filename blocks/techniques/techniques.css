@@ -1,5 +1,5 @@
 .techniques {
     width: 80%;
-    box-sizing: inherit;
+    box-sizing: border-box;
     margin: 0 auto 0 auto;
 }

@@ -1,5 +1,5 @@
 .video {
     position: relative;
     min-height: fit-content;
-    box-sizing: inherit;
+    box-sizing: border-box;
 }

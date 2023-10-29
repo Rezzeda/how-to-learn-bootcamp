@@ -1,4 +1,4 @@
 .digits {
   width: 100%;
-  box-sizing: inherit;
+  box-sizing: border-box;
 }

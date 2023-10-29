@@ -5,3 +5,8 @@
     font-weight: normal;
     line-height: 25px;
 }
+
+.header__link:hover {
+    opacity: 60%;
+    transition: 0.2s;
+}

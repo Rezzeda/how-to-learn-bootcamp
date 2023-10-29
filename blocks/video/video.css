@@ -1,0 +1,5 @@
+.video {
+    position: relative;
+    min-height: fit-content;
+    box-sizing: inherit;
+}
